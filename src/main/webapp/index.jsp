@@ -1,15 +1,15 @@
 <html>
 <body>
   <h2>Hello Everyone!, How are youuuuu! ?</h2>
-<h3>Welcome to Cloud With AWS| AWS Certified Security Engineer, Azure & AWS Solution Architect </h3>
+<h3>Welcome to Cloud With MADHURAN| AWS Certified Security Engineer, Azure & AWS Solution Architect </h3>
   
-<marquee>Welcome to Cloud With Malthesh</marquee>
+<marquee>Welcome to Cloud With Madhuran</marquee>
 
 <marquee direction="up">Welcome to Cloud With Madhuran| DEVOPS </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
-    Welcome to Cloud With sky| DEVOPS
+    Welcome to Cloud With MADHURAN| DEVOPS
   </marquee>
 </marquee>
   <B> <U> <I> Jenkins Installation </B> </i> </u>
